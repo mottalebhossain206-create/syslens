@@ -1,0 +1,6 @@
+Robots.txt for SysLens Documentation Site
+​Built for https://www.google.com/search?q=https://mahmudul626.github.io/syslens/
+​User-agent: *
+Allow: /
+​Sitemaps
+​Sitemap: https://www.google.com/search?q=https://mahmudul626.github.io/syslens/sitemap.xml
